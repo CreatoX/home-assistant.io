@@ -18,10 +18,11 @@ The `toon` climate platform allows you to interact with your Toon thermostat. Fo
 
 | Home Assistant | Toon    |
 |:---------------|:--------|
-| Performance    | Comfort |
-| Heat           | Thuis   |
-| Eco            | Weg     |
-| Cool           | Slapen  |
+| auto           | Comfort |
+| heat           | Thuis   |
+| eco            | Weg     |
+| cool           | Slapen  |
 
+Please note, the input is case sensitive.
 
 Please refer to the [hub component](/components/toon/) for setup instructions.
